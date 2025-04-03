@@ -1,6 +1,8 @@
-"# PeliculasAPI" 
+--------------
+|PeliculasAPI|
+--------------
 
-Esta aplicacion   permite obtener información detallada sobre una película mediante un servicio RESTful,
+ Esta aplicacion   permite obtener información detallada sobre una película mediante un servicio RESTful,
  así como una lista de películas similares utilizando la API de The Movie Database (TMDb).
 
 La aplicación está preparada para ser ejecutada en un contenedor Docker
@@ -21,21 +23,29 @@ Instalación
 Paso 1: Obtener la API Key de TMDb
 ---------------------------------
 1. Regístrate en TMDb y consigue una clave de API.
-2. Abre el archivo appsettings.json y reemplaza la clave en el siguiente campo:
+
+
+
+3. Abre el archivo appsettings.json y reemplaza la clave en el siguiente campo:
  {
  }
     "TMDb": {
         "ApiKey": "TU_API_KEY"
     }
 
+
+
  Paso 2: Configuración del Proyecto
 ---------------------------------
 
 
 Opción 1: Ejecutar sin Docker
-------------------------------------------
+------------------------------------------ 
+ 1.Clona el repositorio o descarga los archivos del proyecto  con este comando y abre el proyecto con Visual estudio:
 
- 1. Clona el repositorio o descarga los archivos del proyecto.
+git clone https://github.com/SergioPenaCancelo1/PeliculasAPI.git
+
+
  2. Abre una terminal y navega al directorio del proyecto.
  3. Ejecuta el siguiente comando para restaurar las dependencias del proyecto:
 
@@ -57,7 +67,7 @@ Si prefieres ejecutar la aplicación en un contenedor Docker, sigue estos pasos:
 
  1. Debes tener Docker instalado.
 
-Los siguientes pasos no deberian ser necesarios, unicamente con ejecutar el proyecto con docker iniciado deberia crearse directamente el contenedor e iniciarse directamente la aplicacion escuchando en el puerto 7056 .
+Los siguientes pasos no deberian ser necesarios, unicamente con ejecutar el proyecto por ejemplo en visual studio 2022 con docker iniciado deberia crearse directamente el contenedor e iniciarse directamente la aplicacion escuchando en el puerto 7056 .
 Pon esto en tu navegador http://localhost:7056/swagger/index.html para acceder a la aplicacion dentro de swagger 
 
 De no funcionar como se ha dicho previamente seguir los siguientes pasos
