@@ -1,0 +1,28 @@
+# Usamos una imagen base de .NET SDK para construir la aplicación
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+
+# Establece el directorio de trabajo dentro del contenedor
+WORKDIR /app
+
+# Copia el archivo de proyecto y restaura las dependencias
+COPY *.csproj ./
+RUN dotnet restore
+
+# Copia todos los archivos y publica la aplicación en el contenedor
+COPY . ./
+RUN dotnet publish -c Release -o out
+
+# Usamos una imagen base de .NET Runtime para ejecutar la aplicación
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+
+# Establece el directorio de trabajo dentro del contenedor
+WORKDIR /app
+
+# Copia la aplicación publicada desde el contenedor anterior
+COPY --from=build /app/out .
+
+# Expone el puerto que usará la aplicación
+EXPOSE 80
+
+# Establece el comando de inicio para ejecutar la aplicación
+ENTRYPOINT ["dotnet", "MovieServiceAPI.dll"]

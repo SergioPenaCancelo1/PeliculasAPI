@@ -1,0 +1,102 @@
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.staticwebassets.endpoints.json
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.exe
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.deps.json
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.runtimeconfig.json
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.pdb
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.AssemblyInfo.cs
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\scopedcss\bundle\PeliculasAPI.styles.css
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.PeliculasAPI.props
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PeliculasAPI.props
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PeliculasAPI.props
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\Pelicula.4B037ECC.Up2Date
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\refint\PeliculasAPI.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.pdb
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.genruntimeconfig.cache
+C:\Users\Sergio\source\repos\PeliculasAPI\obj\Debug\net9.0\ref\PeliculasAPI.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Sergio\source\repos\PeliculasAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\appsettings.json
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\PeliculasAPI.staticwebassets.endpoints.json
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\PeliculasAPI.exe
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\PeliculasAPI.deps.json
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\PeliculasAPI.runtimeconfig.json
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\PeliculasAPI.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\PeliculasAPI.pdb
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\PeliculasAPI.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\PeliculasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\PeliculasAPI.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\PeliculasAPI.AssemblyInfo.cs
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\PeliculasAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\PeliculasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\PeliculasAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\scopedcss\bundle\PeliculasAPI.styles.css
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\staticwebassets\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\staticwebassets\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\staticwebassets\msbuild.build.PeliculasAPI.props
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PeliculasAPI.props
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PeliculasAPI.props
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\Pelicula.4B037ECC.Up2Date
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\PeliculasAPI.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\refint\PeliculasAPI.dll
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\PeliculasAPI.pdb
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\PeliculasAPI.genruntimeconfig.cache
+C:\Users\Sergio\source\repos\PeliculasAPI - copia (2)\obj\Debug\net9.0\ref\PeliculasAPI.dll
