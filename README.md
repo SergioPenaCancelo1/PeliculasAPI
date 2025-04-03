@@ -11,7 +11,9 @@ REQUISITOS PREVIOS
 -----------------
 
 - .NET SDK 8.0 (Para compilar y ejecutar la aplicación sin Docker)
--Docker (Para ejecutar la aplicación en un contenedor)- 
+
+-Docker (Para ejecutar la aplicación en un contenedor)
+ 
 -Cuenta en TMDb: Necesitarás una clave de API de TMDb. Puedes obtenerla aquí:
 
 https://developers.themoviedb.org/3/getting-started/introduction
