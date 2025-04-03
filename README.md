@@ -28,11 +28,17 @@ Paso 1: Obtener la API Key de TMDb
 
 
 
-3. Abre el archivo appsettings.json y reemplaza la clave en el siguiente campo:
+2. Abre el archivo appsettings.json y reemplaza la clave en el siguiente campo:
+
+
  {
+
  }
+
     "TMDb": {
+
         "ApiKey": "TU_API_KEY"
+
     }
 
 
