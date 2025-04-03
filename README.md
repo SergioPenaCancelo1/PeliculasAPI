@@ -33,7 +33,7 @@ Paso 1: Obtener la API Key de TMDb
 
  {
 
- }
+
 
     "TMDb": {
 
@@ -41,7 +41,7 @@ Paso 1: Obtener la API Key de TMDb
 
     }
 
-
+}
 
  Paso 2: Configuración del Proyecto
 ---------------------------------
